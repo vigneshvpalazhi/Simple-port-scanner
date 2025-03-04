@@ -1,6 +1,6 @@
 # Simple Port Scanner
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2511333)
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2511333)](https://tryhackme.com/p/0xacun3tix)
 
 
 A basic Python port scanner that checks for open TCP ports on a specified host.
