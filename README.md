@@ -27,3 +27,6 @@ python port_scanner.py
 * May be blocked by firewalls
 * Scanning all ports (0-65535) can take significant time
 * Requires appropriate permissions to run
+
+
+![Screenshot from 2025-03-04 22-19-22](https://github.com/user-attachments/assets/b99db95a-ab34-426a-a8d4-6a5f77b28c68)
